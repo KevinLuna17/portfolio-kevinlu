@@ -32,3 +32,7 @@ tailwindcss(),
 # Import Tailwind CSS
 
 @import "tailwindcss";
+
+# Install Onest variable Font
+
+npm i @fontsource-variable/onest

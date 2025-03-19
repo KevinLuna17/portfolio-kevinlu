@@ -5,23 +5,24 @@ function Header() {
         <div className="flex justify-center items-center h-14">
           <nav className="flex justify-center items-center gap-4 text-sm font-medium text-gray-600 p-2 rounded-full backdrop-blur-sm shadow-md">
             <li className="list-none">
-              <a href="#experiencia" className="transition hover:text-blue-500">
+              <a href="#experience" className="transition hover:text-blue-500">
                 Experiencia
               </a>
             </li>
             <li className="list-none">
-              <a href="#proyectos" className="transition hover:text-blue-500">
+              <a href="#works" className="transition hover:text-blue-500">
                 Proyectos
               </a>
             </li>
             <li className="list-none">
-              <a href="#sobre-mi" className="transition hover:text-blue-500">
+              <a href="#about-me" className="transition hover:text-blue-500">
                 Sobre mi
               </a>
             </li>
             <li className="list-none">
               <a
                 href="#mailto:kelugo_14@hotmail.com"
+                aria-label="contact"
                 className="transition hover:text-blue-500"
               >
                 Contacto
