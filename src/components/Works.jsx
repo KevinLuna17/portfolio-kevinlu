@@ -3,22 +3,25 @@ import ImgProyecto from "../assets/react.svg";
 function Works() {
   const projects = [
     {
-      title: "Proyectos",
+      title: "Salud en Casa Web",
       image: ImgProyecto,
       description:
-        "Aprende a reutilizar código en tus componentes con los Custom Hooks y cómo usar Playwright para testear tus componentes",
+        "Dashboard para gestionar los servicios ofrecidos y usuarios con rol de medicos del negocio.",
+      github: "https://github.com/KevinLuna17/WebSaludEnCasa",
     },
     {
-      title: "Proyectos",
+      title: "Salud en Casa App",
       image: ImgProyecto,
       description:
-        "Aprende a reutilizar código en tus componentes con los Custom Hooks y cómo usar Playwright para testear tus componentes",
+        "Aplicacion movil Android para solicitar servicios medicos a domicilio en Guayaquil.",
+      github: "https://github.com/KevinLuna17/saludEnCasa_reactNative",
     },
     {
-      title: "Proyectos",
+      title: "Netflix Clone",
       image: ImgProyecto,
       description:
-        "Aprende a reutilizar código en tus componentes con los Custom Hooks y cómo usar Playwright para testear tus componentes",
+        "Sitio web como Netflix en React JS con un video dedicado a mi novia por su cumpleanos.",
+      github: "https://github.com/KevinLuna17/reactjs-netflix-clone",
     },
   ];
 
@@ -55,7 +58,7 @@ function Works() {
                   </li>
                   <li>
                     <a
-                      href=""
+                      href={project.github}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="rounded-lg px-3 py-2 text-xs text-center md:text-base text-gray-800 bg-white transition border border-gray-300 hover:bg-black/10"

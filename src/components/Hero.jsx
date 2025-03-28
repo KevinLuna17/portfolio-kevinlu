@@ -6,9 +6,9 @@ function Hero() {
       <div className="container mx-auto px-4">
         <div className="flex items-center md:justify-center gap-4 mb-12">
           <img
-            src={ProfileImage}
+            src="/kevinsurf.png"
             alt="kevinlu"
-            className="rounded-full shadow-lg size-16"
+            className="rounded-full shadow-lg size-16 lg:size-26"
           />
           <a
             href="https://www.linkedin.com/in/kevin-luna-gonzalez-a2168b194/"
@@ -26,13 +26,13 @@ function Hero() {
         </div>
         <div className="flex flex-col gap-10 md:items-center mb-12 max-w-2xl mx-auto">
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight text-gray-800 mb-6">
-            I'm Kevin Luna
+            Hola, soy Kevin Luna
           </h1>
           <p className="text-xl text-gray-800 mb-8">
             +5 años de experiencia. {""}
             <span className="font-semibold bg-gradient-to-r from-yellow-400 to-yellow-500 bg-clip-text text-transparent">
-              Ingeniero en Sistemas Computacionales. Apasionado por la
-              tecnologia y la seguridad Informatica.
+              Ingeniero en Sistemas Computacionales. Amo el Desarrollo de
+              Software y la Seguridad Informatica.
             </span>{" "}
             Soy de Guayaquil, Ecuador 🇪c. Especializado en el desarrollo de
             aplicaciones web y moviles.
