@@ -28,7 +28,7 @@ function Experience() {
                 key={index}
                 className="flex flex-col md:flex-row gap-8 md:gap-16 mb-12"
               >
-                <div className="relative pb-4">
+                <div className="relative pb-4 min-w-[250px] md:w-1/3">
                   <div className="sticky top-0">
                     <span className="text-yellow-400 -left-[42px] absolute rounded-full text-5xl">
                       •
@@ -45,7 +45,7 @@ function Experience() {
                   </div>
                 </div>
 
-                <div className="relative flex flex-col">
+                <div className="relative md:w-2/3">
                   <p className="text-gray-600">{value.description}</p>
                 </div>
               </div>
