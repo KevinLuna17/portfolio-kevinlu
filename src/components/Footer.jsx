@@ -1,5 +1,5 @@
 import Github from "./icons/Github";
-import LinkedIn from "./icons/Linkedin";
+import LinkedIn from "./icons/LinkedIn";
 import YouTube from "./icons/Youtube";
 
 const currentYear = new Date().getFullYear();
