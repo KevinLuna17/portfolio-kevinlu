@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://google.com/">
-<img src="./public/vite.svg">
+<img src="./public/moondev_web.png">
 </a>
 <p>Welcome, I'm Kevin. I’m really passionate about technology and developing web and mobile apps.</p>
 </div>
@@ -14,25 +14,25 @@
 
 </div>
 
-# How to create a React project
+# How to build this project
 
 npm create vite@latest
 
-# Install Tailwind CSS
+- Install Tailwind CSS
 
 npm install tailwindcss @tailwindcss/vite
 
-# Configure the Vite plugin
+- Configure the Vite plugin
 
 import tailwindcss from '@tailwindcss/vite'
 plugins: [
 tailwindcss(),
 ],
 
-# Import Tailwind CSS
+- Import Tailwind CSS
 
 @import "tailwindcss";
 
-# Install Onest variable Font
+- Install Onest variable Font
 
 npm i @fontsource-variable/onest
