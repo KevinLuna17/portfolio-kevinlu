@@ -92,7 +92,7 @@ function Works() {
                         rel="noopener noreferrer"
                         className="rounded-lg px-3 py-2 text-xs text-center md:text-base text-gray-800 bg-white transition border border-gray-300 hover:bg-gray-800 hover:border-gray-900 hover:text-white active:bg-black"
                       >
-                        Demo
+                        Preview
                       </a>
                     </li>
                     <li>
