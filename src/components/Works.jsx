@@ -53,7 +53,7 @@ function Works() {
   ];
 
   return (
-    <section className="py-20 bg-gray-50">
+    <section id="works" className="py-20 bg-gray-50">
       <div className="container mx-auto px-4 md:max-w-2xl lg:max-w-6xl">
         <h2 className="text-3xl font-bold mb-12">Proyectos</h2>
 

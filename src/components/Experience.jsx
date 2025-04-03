@@ -16,7 +16,7 @@ function Experience() {
     },
   ];
   return (
-    <section className="py-20 bg-white">
+    <section id="experience" className="py-20 bg-white">
       <div className="container md:max-w-2xl lg:max-w-4xl mx-auto px-4">
         <h2 className="text-3xl font-bold mb-12">Experiencia Laboral</h2>
 

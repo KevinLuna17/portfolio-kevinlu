@@ -1,5 +1,3 @@
-import ProfileImage from "../assets/react.svg";
-
 function Hero() {
   return (
     <section className="py-10 md:py-20 scroll-m-20">
