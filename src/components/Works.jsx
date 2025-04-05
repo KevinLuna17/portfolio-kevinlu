@@ -1,5 +1,3 @@
-import ImgProyecto from "../assets/react.svg";
-
 function Works() {
   const technologies = {
     REACT: {
@@ -23,7 +21,7 @@ function Works() {
     {
       id: 0,
       title: "Salud en Casa Web",
-      image: "/projects/sc_web.png",
+      image: "/projects/sc_web.webp",
       description:
         "Dashboard para gestionar los servicios ofrecidos y usuarios con rol de medicos del negocio.",
       techs: [technologies.REACT, technologies.FIREBASE],
@@ -33,7 +31,7 @@ function Works() {
     {
       id: 1,
       title: "Salud en Casa App",
-      image: "/projects/sc_app.png",
+      image: "/projects/sc_app.webp",
       description:
         "Aplicacion movil Android para solicitar servicios medicos a domicilio en Guayaquil.",
       techs: [technologies.NATIVE, technologies.FIREBASE],
@@ -43,7 +41,7 @@ function Works() {
     {
       id: 2,
       title: "Netflix Clone",
-      image: "/projects/netflix_clone.png",
+      image: "/projects/netflix_clone.webp",
       description:
         "Sitio web como Netflix en React JS con un video dedicado a mi novia por su cumpleanos.",
       techs: [technologies.REACT, technologies.TAILWIND],
