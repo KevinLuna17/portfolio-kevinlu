@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://google.com/">
-<img src="./public/moondev_web.png">
+<img src="./public/moondev_web.webp">
 </a>
 <p>Welcome, I'm Kevin. I’m really passionate about technology and developing web and mobile apps.</p>
 </div>

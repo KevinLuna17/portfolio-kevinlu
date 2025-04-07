@@ -4,7 +4,7 @@ function Hero() {
       <div className="container mx-auto px-4">
         <div className="flex items-center md:justify-center gap-4 mb-12">
           <img
-            src="/kevinsurf.png"
+            src="/kevinsurf.webp"
             alt="kevinlu"
             className="rounded-full shadow-lg size-16 lg:size-26"
           />
