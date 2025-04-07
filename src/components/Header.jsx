@@ -21,7 +21,7 @@ function Header() {
             </li>
             <li className="list-none">
               <a
-                href="#mailto:kelugo_14@hotmail.com"
+                href="mailto:kelugo_14@hotmail.com"
                 aria-label="contact"
                 className="transition hover:text-blue-500"
               >
