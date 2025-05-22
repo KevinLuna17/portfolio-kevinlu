@@ -38,7 +38,7 @@ function Footer() {
             </li>
           </ul>
           <span className="text-sm text-center text-gray-600">
-            © {currentYear} Kevin Luna. Todos los derechos reservados.
+            © {currentYear} Kevin Luna.
           </span>
         </div>
       </div>
